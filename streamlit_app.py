@@ -1,5 +1,4 @@
 import streamlit as st
-from groq import Groq
 import folium
 from streamlit_folium import st_folium
 
